@@ -42,3 +42,8 @@ Train the model  to predict the "value" of the "question".
  ![Testing](https://user-images.githubusercontent.com/54733971/109376210-0e720a80-78e9-11eb-9bdf-2d151f74a43f.jpeg)
 
  
+## Directory structue of Deploy folder.
+
+tf_model.h5 and tf_model.prepoc are not uploaded because of their large size.
+
+![direct](https://user-images.githubusercontent.com/54733971/109376752-c8b74100-78ec-11eb-8dd6-b20aad3b0388.jpeg)
